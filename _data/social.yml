@@ -1,0 +1,11 @@
+email:
+  id: 'filippo.gambarota@unipd.it'
+  href: 'mailto:'
+  title: 'filippo.gambarota@unipd.it'
+  fa-icon: 'fa-envelope'
+
+orcid:
+  id: '0000-0002-6666-1747'
+  href: 'https://orcid.org/'
+  title: '0000-0002-6666-1747'
+  fa-icon: 'fa-brands fa-orcid'
